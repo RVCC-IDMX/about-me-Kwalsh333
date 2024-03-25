@@ -61,6 +61,12 @@ h1, h2, h3, h4, h5, h6 {
     .drop-cap:not(:first-child) {
         display: none; 
     }
+
+    
+    .photo-gallery img {
+        width: 200px; 
+        height: auto; 
+    }
 }
 
 /* Media query laptop-sized  */
